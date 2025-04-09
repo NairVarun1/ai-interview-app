@@ -1,0 +1,9 @@
+#editor {
+    height: 300px;
+    width: 100%;
+    border: 1px solid #ced4da;
+    font-family: monospace;
+    background: #f8f9fa;
+    padding: 10px;
+    overflow-y: scroll;
+  }
